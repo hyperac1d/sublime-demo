@@ -1,0 +1,12 @@
+What to install: 
+	Boxy Theme
+	FTPSync
+	Color Highlighter
+	Babel
+	Emmet
+	LiveReload
+
+sublime_text_2_shortcuts
+https://drive.google.com/file/d/0By-aduulSKAMOHk3VHFfWjRmMDg/view
+
+
